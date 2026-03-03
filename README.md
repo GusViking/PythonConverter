@@ -12,8 +12,7 @@
 ### 1. Clone project
 
 ```bash
-git@github.com:SofusVingaard/python-obligatorisk-1.git
-cd python-obligatorisk-1
+https://github.com/GusViking/PythonConverter.git
 ```
 
 ### 2. Create VE
